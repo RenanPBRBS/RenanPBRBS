@@ -21,7 +21,7 @@ No momento estou focado em:
 
 ---
 
-## Featured Projects
+## Meus Projetos
 
 ### SonicPromo (https://sonicpromo.com.br)
 
@@ -33,7 +33,7 @@ Rede social focada em promoções e cupons de desconto.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanPBRBS&layout=compact&theme=github_dark)
 
-## Contact
+## Contato
 
 - LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/renan-candim/)
 - Portfolio: [https://github.com](https://renanpbrbs.github.io/osport/)
