@@ -23,7 +23,7 @@ No momento estou focado em:
 
 ## Featured Projects
 
-### SonicPromo
+### SonicPromo (https://sonicpromo.com.br)
 
 Rede social focada em promoções e cupons de desconto.
 
