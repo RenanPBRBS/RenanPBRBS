@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Renan 👋
 
-<!--
-**RenanPBRBS/RenanPBRBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer
 
-Here are some ideas to get you started:
+📊 Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 AI Enthusiast
+
+🎮 Game Developer
+
+💡 Founder of SonicPromo
+
+---
+
+## About Me
+
+I build software, automation tools, AI projects and data solutions.
+
+Currently focused on:
+
+- Python
+- Java
+- SQL
+- Power BI
+- Unity
+- Artificial Intelligence
+
+---
+
+## Featured Projects
+
+### SonicPromo
+
+Social network focused on promotions and deals.
+
+### Steam Dashboard
+
+Power BI dashboard inspired by Steam.
+
+### Minecraft Clone
+
+Experimental voxel game development.
+
+---
+
+## Contact
+
+- LinkedIn: https://linkedin.com
+- Portfolio: https://github.com
