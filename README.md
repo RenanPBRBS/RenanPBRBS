@@ -45,7 +45,7 @@ Modelo de Machine Learning para previsão de preços de casas e análise de dado
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RenanPBRBS&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlvb2h2ZnBtdzh5bXN3enNyMnN2N2tlNHU0anN5NThubDZ0bnJlaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/br8dqCCmLppvO/giphy.gif">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlvb2h2ZnBtdzh5bXN3enNyMnN2N2tlNHU0anN5NThubDZ0bnJlaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VVYgkLlCzCAMbxrGy0/giphy.gif">
 
 ## Contato
 
