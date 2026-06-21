@@ -1,4 +1,4 @@
-# Hi, I'm Renan 👋
+# Oi, sou o Renan 👋
 
 📍 Palotina ↔ Florianópolis | Full Stack Developer | Data Analyst | AI | Game Developer | Founder of SonicPromo
 
