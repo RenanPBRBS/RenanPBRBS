@@ -1,16 +1,16 @@
 # Hi, I'm Renan 👋
 
-Full Stack Developer | Data Analyst | AI | Game Developer | Founder of SonicPromo
+📍 Palotina ↔ Florianópolis | Full Stack Developer | Data Analyst | AI | Game Developer | Founder of SonicPromo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
 
 ---
 
-## About Me
+## Sobre Mim
 
-I build software, automation tools, AI projects and data solutions.
+Eu crio softwre, ferramentas de automação, projetos de/com IA e soluções de data.
 
-Currently focused on:
+No momento estou focado em:
 
 - Python
 - Java
@@ -25,19 +25,15 @@ Currently focused on:
 
 ### SonicPromo
 
-Social network focused on promotions and deals.
-
-### Steam Dashboard
-
-Power BI dashboard inspired by Steam.
-
-### Minecraft Clone
-
-Experimental voxel game development.
+Rede social focada em promoções e cupons de desconto.
 
 ---
 
+![Stats](https://github-readme-stats.vercel.app/api?username=RenanPBRBS&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanPBRBS&layout=compact&theme=github_dark)
+
 ## Contact
 
-- LinkedIn: https://linkedin.com
-- Portfolio: https://github.com
+- LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/renan-candim/)
+- Portfolio: [https://github.com](https://renanpbrbs.github.io/osport/)
