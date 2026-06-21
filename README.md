@@ -27,7 +27,7 @@ No momento estou focado em:
 
 Rede social focada em promoções e cupons de desconto.
 
-### 🖥️ SPOCLI ![GitHub repo](https://github.com/RenanPBRBS/spocli)
+### 🖥️ SPOCLI [GitHub repo](https://github.com/RenanPBRBS/spocli)
 Aplicativo de linha de comando criado para me familiarizar com conexão se APIs externas e subir pacotes npm.
 
 ---
