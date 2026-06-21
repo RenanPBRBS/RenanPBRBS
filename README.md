@@ -23,12 +23,17 @@ No momento estou focado em:
 
 ## Meus Projetos
 
-### SonicPromo (https://sonicpromo.com.br)
-
+### 🚀 SonicPromo | 🔗[Link do site](https://sonicpromo.com.br)
 Rede social focada em promoções e cupons de desconto.
 
-### 🖥️ SPOCLI [GitHub repo](https://github.com/RenanPBRBS/spocli)
+### 🖥️ SPOCLI | 🔗[GitHub repo](https://github.com/RenanPBRBS/spocli)
 Aplicativo de linha de comando criado para me familiarizar com conexão se APIs externas e subir pacotes npm.
+
+### ⚙️ CPU Simulator | 🔗[GitHub repo](https://github.com/RenanPBRBS/cpu-simulator)
+Simulador de CPU educacional demonstrando a arquitetura de um computador e seus conceitos.
+
+### 🤖 House Price ML | 🔗[GitHub repo](https://github.com/RenanPBRBS/house-price-ml)
+Modelo de Machine Learning para previsão de preços de casas e análise de dados.
 
 ---
 
@@ -40,7 +45,7 @@ Aplicativo de linha de comando criado para me familiarizar com conexão se APIs 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RenanPBRBS&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://media.giphy.com/media/.../giphy.gif">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlvb2h2ZnBtdzh5bXN3enNyMnN2N2tlNHU0anN5NThubDZ0bnJlaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/br8dqCCmLppvO/giphy.gif">
 
 ## Contato
 
